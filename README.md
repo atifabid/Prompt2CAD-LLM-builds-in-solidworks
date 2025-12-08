@@ -1,17 +1,17 @@
-# Text2CAD 🧠📐
+# Prompt2CAD (previously referred to as Text2CAD) 
 
-**CAD+LLM: Using LLM integration to build CAD in SolidWorks by Atif**
+**CAD+LLM: LLM integration to build CAD in SolidWorks by Atif (its not just tool calling)**
 
-This is a prototype that enables users to generate CAD geometry in SolidWorks directly from natural language prompts using a locally hosted Large Language Model (LLM). The project was made open source to help contritbution from community and further development. As a basic ethical practice it is certainly expected to tag this author in your integrations and further enhancements.
+This is a prototype enables a user to generate CAD geometry in SolidWorks directly from natural language prompts using a locally hosted Large Language Model (LLM). The project was made open source to help contritbution from community and further development. As a basic ethical practice it is certainly expected that anyone using this repo/ idea shall tag this author in your integrations and further enhancements.
 
 ---
 
-## 🔧 Built Using
-- 🐍 **Python**
-- 🤖 **Local LLM (Meta’s LLaMA 3)**
-- 🌐 **Flask Web Framework**
-- 💬 **ChatGPT (for development assistance)**
-- 🛠 **SolidWorks (via COM automation)**
+##  Built Using
+- **Python**
+- **Local LLM (Meta’s LLaMA 3)**
+- **Flask Web Framework**
+- **ChatGPT (for development assistance)**
+- **SolidWorks Software Installed Locally**
 
 ---
 
